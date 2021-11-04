@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi 👋, I'm Yarnus
+![pv](https://pageview.vercel.app/?github_user=yarnus)
+![GitHub last commit](https://img.shields.io/github/last-commit/yarnus/yarnus)
 
-<!--
-**Yarnus/yarnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>A growing backend developer
 
-Here are some ideas to get you started:
+- 🔭  I’m currently working on [@eDragonConnect](https://github.com/edragonconnect)
+- ⚡  Fun fact: I'm huge fans of CLI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- 🚀 I use daily:
+    ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)
+ 
+- ⛏ Interest: 
+    ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+    ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+    ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+
+### Portfolio
+> *pending...*
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yarnus&show_icons=true&theme=great-gatsby&count_private=true)
