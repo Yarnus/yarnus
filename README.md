@@ -1,6 +1,4 @@
 ## Hi 👋, I'm Yarnus
-![pv](https://pageview.vercel.app/?github_user=yarnus)
-
 
 >A growing backend developer
 
