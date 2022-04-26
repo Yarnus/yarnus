@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yarnus
 ![pv](https://pageview.vercel.app/?github_user=yarnus)
-![GitHub last commit](https://img.shields.io/github/last-commit/yarnus/yarnus)
+
 
 >A growing backend developer
 
