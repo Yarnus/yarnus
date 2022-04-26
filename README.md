@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Yarnus
 
->A growing backend developer
+>A growing independent developer
 
 - 🔭  I’m currently working on [@eDragonConnect](https://github.com/edragonconnect)
 - ⚡  Fun fact: I'm huge fans of CLI
