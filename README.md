@@ -2,8 +2,7 @@
 
 >A growing independent developer
 
-- 🔭  I’m currently working on [@eDragonConnect](https://github.com/edragonconnect)
-- ⚡  Fun fact: I'm huge fans of CLI
+- 🔭  I've been obsessed with work recently. 
 
 ### Tech Stack
 - 🚀 I use daily:
